@@ -33,7 +33,7 @@ Reforzar el manejo de visibilidad y control de acceso a los miembros de las clas
 
 ### 5. Trabajo a realizar:
 
-- Agregar la propiedad `nombre (String)` a la clase `Vehiculo`. A la hora de crear la lista de vehículos en el main, el nombre de cada vehículo será distinto *(manual)*.
+- Agregar la propiedad `nombre (String)` a la clase `Vehiculo`. A la hora de crear la lista de vehículos en el main, el nombre de cada vehículo será distinto *(controladlo desde la clase Vehiculo con código)*.
 - Definir la clase `Carrera`, clase que solo contendrá una única instancia, con las propiedades y métodos necesarios para llevar a cabo el sistema.
 - Implementar la función `main`, en la que se ejecute todo el sistema.
 - Recuerda mostrar por pantalla todo lo que sucede en la carrera y la posición final de cada participante.
